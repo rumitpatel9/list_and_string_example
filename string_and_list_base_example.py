@@ -120,4 +120,9 @@ for i in l1:
       pass
   else:
     l2.append(i)
-print(l2)     
+print(l2)    
+
+
+#this will be added by A
+def demo():
+  print("hello A..")
